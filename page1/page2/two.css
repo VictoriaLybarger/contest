@@ -1,0 +1,16 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgb(233, 224, 160);
+}
+h2{
+    color: rgb(41, 72, 75);
+    font-size: 60px
+}
+a{
+    color: rgb(98, 161, 167);
+    font-size: 30px;
+    text-decoration-line: none
+}
+div a{
+    background-color: rgb(41, 72, 75);
+}
